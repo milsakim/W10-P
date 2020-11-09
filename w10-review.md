@@ -10,7 +10,7 @@
   * listener refused connection ora-12505
   ![sql_developer_error](./img/sql_developer_error.JPG)
   * SID 확인
-    * cmd > lsnrctl services
+    * cmd > ```lsnrctl services```
     * DEDICATED, STATUS는 READY인 SID 사용하면 됨.
 
 ## 3. 참고할 만한 내용
